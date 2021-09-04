@@ -14,6 +14,10 @@ https://codepen.io/andradev101/pen/zYzBRBz
 
 https://www.freecodecamp.org/learn/data-visualization/
 
+### Project
+
+https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-bar-chart
+
 
 
 
