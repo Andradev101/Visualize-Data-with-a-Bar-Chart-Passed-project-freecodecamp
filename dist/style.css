@@ -1,0 +1,16 @@
+body{
+  background-color: rgb(65, 65, 65);
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+.chart{
+  width: 800px;
+  height: 500px;
+}
+.bar{
+    fill: red;
+}
+.bar:hover{
+    fill: blue;
+}
